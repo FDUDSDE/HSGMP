@@ -29,8 +29,8 @@ download pre-trained model
 
 
 ## data generation
-The code of image scene graph generation is from [Unbiased Scene Graph Generation from Biased Training](https://github.com/KaihuaTang/Scene-Graph-Benchmark.pytorch)
+The code of visual scene graph generation is from [Unbiased Scene Graph Generation from Biased Training](https://github.com/KaihuaTang/Scene-Graph-Benchmark.pytorch)
 
-The code of text scene graph generation is from [SceneGraphParser](https://github.com/vacancy/SceneGraphParser)
+The code of textual scene graph generation is from [SceneGraphParser](https://github.com/vacancy/SceneGraphParser)
 
 The code of image feature extraction is from [Faster-R-CNN-with-model-pretrained-on-Visual-Genome](https://github.com/shilrley6/Faster-R-CNN-with-model-pretrained-on-Visual-Genome)
