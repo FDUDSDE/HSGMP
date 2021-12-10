@@ -1,6 +1,6 @@
-# heterogeneous-scene-graph
+# hsgmp
 
-Since the data is too large, we do not provide the data, including visual & textual scene graph, please generate the data by yourself using the code in [data generation](#data generation).
+Since the data is too large, we do not provide the data, including visual & textual scene graph, please generate the data by yourself using the code in [data generation](#data-generation).
 
 ## Requirement
 ```
