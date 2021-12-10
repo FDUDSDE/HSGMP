@@ -1,0 +1,6 @@
+[submodule "faster-rcnn"]
+	path = faster-rcnn
+	url = https://github.com/shilrley6/Faster-R-CNN-with-model-pretrained-on-Visual-Genome.git
+[submodule "data/SceneGraphParser"]
+	path = data/SceneGraphParser
+	url = https://github.com/vacancy/SceneGraphParser
